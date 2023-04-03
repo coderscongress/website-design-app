@@ -5,6 +5,7 @@ import items from "./data";
 import logo from "./logo.JPG";
 import Footer from "./Footer";
 
+
 const allCategories = ["all", ...new Set(items.map((item) => item.category))];
 
 const AppList = () => {

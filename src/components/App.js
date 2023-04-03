@@ -1,6 +1,5 @@
 
 import { Routes, Route } from "react-router-dom";
-//import { BrowserRouter as Router, Route } from "react-router-dom";
 import Home from '../routes/Home';
 import AboutUs from '../routes/AboutUs';
 import Mission from '../routes/Mission';
@@ -18,12 +17,6 @@ import Videos from '../routes/Videos';
 import ContactUs from '../routes/ContactUs';
 
 
-
-
-//import './App.scss';
-//import "./App.css";
-////import 'boxicons/css/boxicons.min.css';
-//import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Blank from '../routes/Blank';
 import Started from '../routes/Started';
 

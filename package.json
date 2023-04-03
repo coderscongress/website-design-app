@@ -20,7 +20,9 @@
     "react-dnd": "^14.0.2",
     "react-dnd-html5-backend": "^14.0.0",
     "react-icons": "^4.2.0",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^5.0.1",
+    "font-awesome": "^4.7.0",
+    "react-fontawesome": "^1.7.1"
   },
   "scripts": {
     "start": "react-scripts start",
